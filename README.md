@@ -10,7 +10,7 @@ Nothing is copied. Each other account's worlds folder becomes a link to your mai
 2. Make sure every account you want to use has signed in to Minecraft at least once.
 3. Double-click `Share-Worlds.cmd`. It shows what it will change and asks before doing anything.
 
-If Minecraft is open, it waits for you to close it.
+If Minecraft is open, it waits for you to close it. If Windows asks whether to run the file, choose Run.
 
 ## What gets shared
 
